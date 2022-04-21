@@ -5,7 +5,8 @@
     "notes": "Ein Beispieldatensatz für das Veröffentlichen mit GitHub.",
     "author": "BerlinOnline Stadtportal GmbH & Co KG",
     "license_id": "cc-zero",
-    "berlin_source": "api-gitaction"
+    "berlin_source": "api-gitaction",
+    "url": "https://github.com/berlinonline/test_dataset"
   },
   "connection": {
     "ckan_base": "https://datenregister.stage.berlinonline.net"
