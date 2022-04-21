@@ -1,9 +1,9 @@
 {
   "dataset": {
-    "id": "name_oder_id_des_datensatzes",
-    "title": "Titel des Datensatzes",
-    "notes": "Hier sollte eine Beschreibung des Datensatzes stehen.",
-    "author": "Name der Veröffentlichenden Stelle",
+    "id": "github-test-dataset",
+    "title": "Github Test Dataset",
+    "notes": "Ein Beispieldatensatz für das Veröffentlichen mit GitHub.",
+    "author": "BerlinOnline Stadtportal GmbH & Co KG",
     "license_id": "cc-zero",
     "berlin_source": "api-gitaction"
   },
